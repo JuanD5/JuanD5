@@ -21,9 +21,10 @@
 * Deep learning 🧠 : reinforcement learning.
 * Machine learning 🤖: time series and forecasting. 
 * Data Science 🧪: PCA _(Principal component analysis)_.
-* Cloud services ☁️ : AWS, GCP.
+* Cloud services ☁️ : AWS, GCP, FastAPI.
 * Deployment 💻: Flask, Docker, Django, Pyspark. 
 * Databases 📔: PostgreSQL and MongoDB.
+* Data visualization 👀: Power BI, Tableu. 
 
 ### _Soft Skills_ :
 
