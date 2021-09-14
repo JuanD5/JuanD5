@@ -12,7 +12,7 @@
 * Deep learning  🧠: Tensorflow-Keras and Pytorch. _**(Computer vision and Natural Language processing)**_.
 * Machine learning 🤖: Supervised and unsupervised algorithms. 
 * Math ➕: Linear algebra, calculus, probability and statistics.
-* Data Science 🧪: Data preprocessing, cleaning, analysis, feature selection, feature engineering.   
+* Data Science 🧪: EDA _(Exploratory Data Analysis)_, Data preprocessing, cleaning, analysis, feature selection, feature engineering.   
 * Databases 📔 : MySQL. 
 
 ### _Techincal Skills_ Im **learning** at the moment: 
