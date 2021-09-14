@@ -1,6 +1,6 @@
-# Hi there my name is Juan David 👋
+# Hi there my name is Juan David 👋.
 
-## Im a self taught data scientist and machine learning engineer from Bogotá Colombia. 
+## I am  a self taught data scientist and machine learning engineer from Bogotá Colombia. 
 
 ### 🔭 I’m currently seeking for a job as data scientist or machine learning engineer in which I can bring my knowledge to solve real life problems with a team 🤝. 
 
