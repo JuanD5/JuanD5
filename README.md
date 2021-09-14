@@ -15,7 +15,7 @@
 * Data Science 🧪: Data preprocessing, cleaning, analysis, feature selection, feature engineering.   
 * Databases 📔 : MySQL. 
 
-### _Techincal Skills_ Im learning at the moment: 
+### _Techincal Skills_ Im **learning** at the moment: 
 
 * Python 🐍 : Bokeh, OpenCV, FastAI.
 * Deep learning 🧠 : reinforcement learning, time series and forecasting. 
