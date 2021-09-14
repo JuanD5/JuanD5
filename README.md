@@ -6,7 +6,7 @@
 
 ### My main interests includes computer vision 👁️‍🗨️, natural language processing 😛 and reinforcement learning 🕹️. 
 
-### About my  _Technical Skills_: 
+### My _Technical Skills_: 
 
 * Python 🐍 : Scikit learn, numpy, pandas, matplotlib, seaborn, scipy, OOP _**(Object Oriented Programming)**_ .
 * Deep learning  🧠: Tensorflow-Keras and Pytorch. _**(Computer vision and Natural Language processing)**_.
