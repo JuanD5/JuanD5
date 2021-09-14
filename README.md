@@ -35,5 +35,5 @@
 ###  💬 Ask me about deep learning and machine learning. 
 
 ### 📫 How to reach me: 
-* Linkedin : [Juan David García Castro] ( https://www.linkedin.com/in/juangarciacastro/)
+* Linkedin : [Juan David García Castro]( https://www.linkedin.com/in/juangarciacastro/)
 
