@@ -8,7 +8,7 @@
 
 ### About my  _Technical Skills_: 
 
-* Python 🐍 : Scikit learn, numpy, pandas, matplotlib, seaborn, scipy, OOP _(Object Oriented Programming)_ .
+* Python 🐍 : Scikit learn, numpy, pandas, matplotlib, seaborn, scipy, OOP _**(Object Oriented Programming)**_ .
 * Deep learning  🧠: Tensorflow-Keras and Pytorch. _**(Computer vision and Natural Language processing)**_.
 * Machine learning 🤖: Supervised and unsupervised algorithms. 
 * Math ➕: Linear algebra, calculus, probability and statistics.
@@ -26,7 +26,11 @@
 
 ### _Soft Skills_ :
 
-* Scrum and agile methodologies. 🕰️
+* Scrum and agile methodologies 🕰️.
+* Team work and leadership 👨‍🔬.
+* Written and oral communication ✏️.
+* English level **C1** .
+* Python Programming best practices 🖥️.
 
 ### 🔭 I’m currently working on machine learning and deeplearning projects using Kaggle. 
 
