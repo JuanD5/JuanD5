@@ -18,8 +18,6 @@
 ### _Techincal Skills_ Im **learning** at the moment: 
 
 * Python 🐍 : Bokeh, OpenCV, FastAI.
-* Deep learning 🧠 : reinforcement learning.
-* Machine learning 🤖: time series and forecasting. 
 * Data Science 🧪: PCA _(Principal component analysis)_.
 * Cloud services ☁️ : AWS, GCP.
 * Deployment 💻: Flask, Docker, Django, Pyspark, FastAPI. 
