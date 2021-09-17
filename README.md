@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently seeking for a job as data scientist or machine learning engineer in which I can bring my knowledge to solve real life problems with a team 🤝. 
 
-### My main interests includes computer vision 👁️‍🗨️, natural language processing 😛 and reinforcement learning 🕹️. 
+### My main interests includes computer vision 👁️‍🗨️ and natural language processing 😛. 
 
 ### My _Technical Skills_: 
 
