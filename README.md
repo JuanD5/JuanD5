@@ -15,7 +15,7 @@
 * Data Science 🧪: EDA _(Exploratory Data Analysis)_, Data preprocessing, cleaning, analysis, feature selection, feature engineering.   
 * Databases 📔 : MySQL. 
 
-### _Techincal Skills_ Im **learning** at the moment: 
+### _Techincal Skills_ I am  **learning** at the moment: 
 
 * Python 🐍 : Bokeh, OpenCV, FastAI.
 * Data Science 🧪: PCA _(Principal component analysis)_.
