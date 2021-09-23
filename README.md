@@ -20,7 +20,7 @@
 * Python 🐍 : Bokeh, OpenCV, Plotly. 
 * Data Science 🧪: PCA _(Principal component analysis)_.
 * Cloud services ☁️ : AWS, GCP.
-* Deployment 💻: Flask, Docker, Django, Pyspark, FastAPI. 
+* Deployment 💻: Flask, Docker, Django, Pyspark, FastAPI, Hadoop, ApacheSpark.
 * Databases 📔: PostgreSQL and MongoDB.
 * Data visualization 👀: Power BI, Tableu. 
 
