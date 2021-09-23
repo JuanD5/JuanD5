@@ -29,7 +29,7 @@
 * Scrum and agile methodologies 🕰️.
 * Team work and leadership 👨‍🔬.
 * Written and oral communication ✏️.
-* English level **C1** .
+* English level **B2** .
 * Python Programming best practices 🖥️.
 
 ### 🔭 I’m currently working on machine learning and deeplearning projects using Kaggle. 
