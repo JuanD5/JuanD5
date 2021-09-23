@@ -17,7 +17,7 @@
 
 ### _Techincal Skills_ I am  **learning** at the moment: 
 
-* Python 🐍 : Bokeh, OpenCV, FastAI.
+* Python 🐍 : Bokeh, OpenCV, Plotly. 
 * Data Science 🧪: PCA _(Principal component analysis)_.
 * Cloud services ☁️ : AWS, GCP.
 * Deployment 💻: Flask, Docker, Django, Pyspark, FastAPI. 
