@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently seeking for a job as data scientist or machine learning engineer in which I can bring my knowledge to solve real life problems with a team 🤝. 
 
-### My main interests includes computer vision 👁️‍🗨️ and natural language processing 😛. 
+### My main interests includes computer vision 👁️‍🗨️ and natural language processing 😛 and reinforcement learning 🤖. 
 
 ### My _Technical Skills_: 
 
@@ -18,6 +18,7 @@
 ### _Techincal Skills_ I am  **learning** at the moment: 
 
 * Python 🐍 : Bokeh, OpenCV, Plotly. 
+* Reinforcement learning 🤖. 
 * Data Science 🧪: PCA _(Principal component analysis)_.
 * Cloud services ☁️ : AWS, GCP.
 * Deployment 💻: Flask, Docker, Django, Pyspark, FastAPI, Hadoop, ApacheSpark.
