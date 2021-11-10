@@ -9,7 +9,7 @@
 ### _Soft Skills_ :
 
 * English level **B2** .
-* * Python Programming best practices (clean, modular, ship reliable, scalable and efficient code) 🖥️.
+* Python Programming best practices (clean, modular, ship reliable, scalable and efficient code) 🖥️.
 * Scrum and agile methodologies 🕰️.
 * Team work and leadership 👨‍🔬.
 * Written and oral communication ✏️.
