@@ -12,16 +12,17 @@
 * Deep learning  🧠: Tensorflow-Keras and Pytorch. _**(Computer vision and Natural Language processing)**_.
 * Machine learning 🤖: Supervised and unsupervised algorithms. 
 * Math ➕: Linear algebra, calculus, probability and statistics.
-* Data Science 🧪: EDA _(Exploratory Data Analysis)_, Data preprocessing, cleaning, analysis, feature selection, feature engineering.   
+* Data Science 🧪: EDA _(Exploratory Data Analysis)_, Data preprocessing, cleaning, analysis, feature selection, feature engineering , PCA _(Principal component analysis)_.
+* Cloud services ☁️ : GCP.
+* Deployment 💻: Flask, Docker.
 * Databases 📔 : MySQL. 
 
 ### _Techincal Skills_ I am  **learning** at the moment: 
 
-* Python 🐍 : Bokeh, OpenCV, Plotly. 
+* Python 🐍 : OpenCV
 * Reinforcement learning 🤖. 
-* Data Science 🧪: PCA _(Principal component analysis)_.
-* Cloud services ☁️ : AWS, GCP.
-* Deployment 💻: Flask, Docker, Django, Pyspark, FastAPI, Hadoop, ApacheSpark.
+* Cloud services ☁️ : AWS.
+* Deployment 💻: Django, Pyspark, FastAPI, Hadoop, ApacheSpark.
 * Databases 📔: PostgreSQL and MongoDB.
 * Data visualization 👀: Power BI, Tableu. 
 
