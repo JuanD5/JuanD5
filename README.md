@@ -6,6 +6,14 @@
 
 ### My main interests includes computer vision 👁️‍🗨️ and natural language processing 😛 and reinforcement learning 🤖. 
 
+### _Soft Skills_ :
+
+* Scrum and agile methodologies 🕰️.
+* Team work and leadership 👨‍🔬.
+* Written and oral communication ✏️.
+* English level **B2** .
+* Python Programming best practices 🖥️.
+
 ### My _Technical Skills_: 
 
 * Python 🐍 : Scikit learn, numpy, pandas, scipy,  OOP _**(Object Oriented Programming)**_ .
@@ -27,13 +35,6 @@
 * Databases 📔: PostgreSQL and MongoDB.
 * Data visualization 👀: Power BI, Tableu. 
 
-### _Soft Skills_ :
-
-* Scrum and agile methodologies 🕰️.
-* Team work and leadership 👨‍🔬.
-* Written and oral communication ✏️.
-* English level **B2** .
-* Python Programming best practices 🖥️.
 
 ### 🔭 I’m currently working on machine learning and deeplearning projects using Kaggle. 
 
