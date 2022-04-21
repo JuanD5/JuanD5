@@ -1,8 +1,6 @@
 # Hi there my name is Juan David 👋.
 
-## I am  a self taught  full stack data scientist from Bogotá Colombia. 
-
-### 🔭 I’m currently seeking for a job as data scientist or machine learning engineer in which I can bring my knowledge to solve real life problems with a team 🤝. 
+## I am machine learning engineer trainee from Bogotá Colombia. 
 
 ### My main interests includes computer vision 👁️‍🗨️ and natural language processing 😛 and reinforcement learning 🤖. 
 
