@@ -1,6 +1,6 @@
 # Hi there my name is Juan David 👋.
 
-## I am machine learning engineer trainee from Bogotá Colombia. 
+## I am machine learning engineer  from Bogotá Colombia. 
 
 ### My main interests includes computer vision 👁️‍🗨️ and natural language processing 😛 and reinforcement learning 🤖. 
 
@@ -20,17 +20,16 @@
 * Machine learning 🤖: Supervised and unsupervised algorithms. 
 * Math ➕: Linear algebra, calculus, probability and statistics.
 * Data Science 🧪: EDA _(Exploratory Data Analysis)_, Data preprocessing, cleaning, analysis, feature selection, feature engineering , PCA _(Principal component analysis)_.
-* Cloud services ☁️ : GCP.
-* Deployment 💻: Flask, Docker.
-* Databases 📔 : MySQL. 
+* Cloud services ☁️ : GCP. AWS, Azure.
+* Deployment 💻: Flask, Docker, FastAPI.
+* Databases 📔 : MySQL, PostgreSQL. 
 
 ### _Techincal Skills_ I am  **learning** at the moment: 
 
 * Python 🐍 : OpenCV
 * Reinforcement learning 🤖. 
-* Cloud services ☁️ : AWS.
-* Deployment 💻: Django, Pyspark, FastAPI, Hadoop, ApacheSpark.
-* Databases 📔: PostgreSQL and MongoDB.
+* Deployment 💻: Django, Pyspark, Hadoop, ApacheSpark.
+* Databases 📔:  MongoDB.
 * Data visualization 👀: Power BI, Tableu. 
 
 
